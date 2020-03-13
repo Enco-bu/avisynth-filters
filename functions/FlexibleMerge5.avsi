@@ -1,3 +1,14 @@
+/*
+FlexibleMerge(OrignalName:FlexibleMerge5)
+
+Requirement
+Combmask:http://csbarn.blogspot.com/2016/05/combmask.html
+MaskTools2:http://avisynth.nl/index.php/MaskTools2
+
+Changelog
+2020-03-13 Change use CombMask fromÅ@Masktools(v1))
+
+*/
 function FlexibleMerge (clip clip1,clip clip2,float "weight1",float "weight2",float "weight3",int "top",int "bottom",int "left",int "right",int "thr",float "nmax",int "mode",int "show") {
 
 thr=default(thr,10)

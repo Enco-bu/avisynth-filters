@@ -1,3 +1,9 @@
+/*
+PulldownMerge
+
+Requirement
+FlexibleMerge.avsi(FlexibleMerge5)
+*/
 """
 
   オリジナル: http://potatosub.blog.fc2.com/blog-entry-129.html

@@ -1,5 +1,7 @@
 /*
 Combcheck
+
+Changelog
 2020-03-13 Change use CombMask from　Masktools(v1))
 */
 function Combcheck (clip clip) {
